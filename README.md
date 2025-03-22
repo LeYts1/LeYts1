@@ -13,8 +13,6 @@ Everyday I'm learning new technologies and this is technologies I'm learning now
 
 ![My Skills](https://skillicons.dev/icons?i=js,bootstrap,python,&perline=3)
 
-I'm excited to continue learning new technologies as I develop my skills!
-
 <!--
 **LeYts1/LeYts1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
