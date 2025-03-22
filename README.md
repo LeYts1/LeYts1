@@ -2,14 +2,19 @@
 ![Technologies Icons](https://skillicons.dev/icons?i=git,html,css)
 
 ## 📖 About Me
+Hi! I'm Marcin and I learning front-end per one month. In my free time I very like to play on saxophone I'm learning how to play per 3 years!
 
 ## Stuff I’m Know
-[![My Skills](https://skillicons.dev/icons?i=html,css,git,flutter&perline=3)](https://skillicons.dev)
+I'm begginer in web development but I have good basics this is technologies I know:
+[![My Skills](https://skillicons.dev/icons?i=html,css,git,flutter&perline=3)]
 
 
 
 ## 🚀 Stuff I’m Learning
-[![My Skills](https://skillicons.dev/icons?i=js,bootstrap,python,flutter&perline=2)](https://skillicons.dev)
+Everyday I'm learning new technologies and this is technologies I'm learning now!
+
+[![My Skills](https://skillicons.dev/icons?i=js,bootstrap,python,flutter&perline=3)]
+I'm excited to continue learning new technologies as I develop my skills!
 
 <!--
 **LeYts1/LeYts1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
