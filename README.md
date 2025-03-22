@@ -1,10 +1,16 @@
 # 👋 Welcome in My GitHub Profile!
 ![Technologies Icons](https://skillicons.dev/icons?i=git,html,css)
-![Technologies Icons]([https://imgs.search.brave.com/XsCqyeLJsm9ElXiWHUDp3frc06NEaXTcGwVh4bvh9IU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bG9nby53aW5lL2Ev/bG9nby9HaXRIdWIv/R2l0SHViLUljb24t/V2hpdGUtRGFyay1C/YWNrZ3JvdW5kLUxv/Z28ud2luZS5zdmc]
+
+## 📖 About Me
+
+## Stuff I’m Know
+[![My Skills](https://skillicons.dev/icons?i=html,css,git,flutter&perline=3)](https://skillicons.dev)
 
 
 
-https://imgs.search.brave.com/XsCqyeLJsm9ElXiWHUDp3frc06NEaXTcGwVh4bvh9IU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bG9nby53aW5lL2Ev/bG9nby9HaXRIdWIv/R2l0SHViLUljb24t/V2hpdGUtRGFyay1C/YWNrZ3JvdW5kLUxv/Z28ud2luZS5zdmc
+## 🚀 Stuff I’m Learning
+[![My Skills](https://skillicons.dev/icons?i=js,bootstrap,python,flutter&perline=2)](https://skillicons.dev)
+
 <!--
 **LeYts1/LeYts1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
