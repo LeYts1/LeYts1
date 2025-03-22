@@ -8,8 +8,6 @@ I'm begginer in web development but I have good basics this is technologies I kn
 
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,git,&perline=3)
-
-
 ## 🚀 Stuff I’m Learning
 Everyday I'm learning new technologies and this is technologies I'm learning now!
 
