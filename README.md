@@ -7,9 +7,7 @@ Hi! I'm Marcin and I learning front-end per one month. In my free time I very li
 I'm begginer in web development but I have good basics this is technologies I know:
 
 
-
 ![My Skills](https://skillicons.dev/icons?i=html,css,git,&perline=3)
-
 
 
 ## 🚀 Stuff I’m Learning
